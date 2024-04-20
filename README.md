@@ -6,6 +6,8 @@
   <a href="https://www.linkedin.com/in/slopez321/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
+
+
 <p align="center">I developed a passion for programming while working in a non-technical factory job, which led me to choose a career in the tech industry. Since then, I've been actively involved in developing websites for local businesses while also dedicating myself to studying for a Full-Stack position.</p>
 
 <p>See my <a href="https://samanthalopezdev.netlify.app/">website</a> for more information!</p>
@@ -22,7 +24,7 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://woodendreamsdemo.netlify.app/" target="_blank">Wooden Dreams Homepage</a></h3>
-        <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/b7e2d9f5-73b7-4a3c-9fab-45b1e54274a1">
+        <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/dcff13d6-71fa-4b87-a2af-87a8c2ad80ff">
         <p align="center">A sleek carpentry shop site that offers a comprehensive experience for visitors featuring multiple webpages.</p>
         <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p> 
       </td>
