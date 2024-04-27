@@ -25,7 +25,7 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://woodendreamsdemo.netlify.app/" target="_blank">Wooden Dreams Homepage</a></h3>
-        <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/dcff13d6-71fa-4b87-a2af-87a8c2ad80ff">
+        <a href="https://github.com/SamanthaLProgramming/Wooden-Dreams"><img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/dcff13d6-71fa-4b87-a2af-87a8c2ad80ff"></a>
         <p align="center">A sleek carpentry shop site that offers a comprehensive experience for visitors featuring multiple webpages.</p>
         <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p> 
       </td>
