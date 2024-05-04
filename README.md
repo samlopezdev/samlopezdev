@@ -19,13 +19,29 @@
     <tr>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://carolinacakesdemo.netlify.app/" target="_blank">Carolina Cakes Homepage</a></h3>
-        <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/e6a496c6-d24c-4f24-9157-2c700d6af1f7" />
+        <a href="https://carolinacakesdemo.netlify.app/">
+          <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/e6a496c6-d24c-4f24-9157-2c700d6af1f7" />
+        </a>
+        <p align="center">
+          <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." />
+          <a href="https://carolinacakesdemo.netlify.app/">
+            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
+          </a>
+        </p>
         <p align="center">A tasteful and elegant homepage, showcasing exquisite handcrafted cakes made to order.</p>
         <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://woodendreamsdemo.netlify.app/" target="_blank">Wooden Dreams Homepage</a></h3>
-        <a href="https://github.com/SamanthaLProgramming/Wooden-Dreams"><img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/dcff13d6-71fa-4b87-a2af-87a8c2ad80ff"></a>
+        <a href="https://woodendreamsdemo.netlify.app/">
+          <img width="100%" src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/dcff13d6-71fa-4b87-a2af-87a8c2ad80ff">
+        </a>
+        <p align="center">
+          <a href="https://github.com/SamanthaLProgramming/Wooden-Dreams"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href="https://woodendreamsdemo.netlify.app/">
+            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
+          </a>
+        </p>
         <p align="center">A sleek carpentry shop site that offers a comprehensive experience for visitors featuring multiple webpages.</p>
         <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p> 
       </td>
