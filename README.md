@@ -11,7 +11,8 @@
 
 <p align="center">I developed a passion for programming while working in a CNC (Computer Numerical Control) position, which led me to choose a career in the tech industry. Since then, I've been actively involved in developing websites for local businesses while also dedicating myself to studying for a Full-Stack position.</p>
 
-<p>See my <a href="https://samanthalopezdev.netlify.app/">website</a> for more information!</p>
+<p>See my <a href="https://samlopezdev.netlify.app/">website</a> for more information!</p>
+
 
 <h2 align="center">Projects</h2>
 <table align="center">
