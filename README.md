@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">I developed a passion for programming while working in a CNC (Computer Numerical Control) position, which led me to choose a career in the tech industry. Since then, I've been actively involved in developing websites for local businesses while also dedicating myself to studying for a Full-Stack position.</p>
+<p align="center">Detail-oriented and high-spirited Full-Stack Developer, proficient in JavaScript, MongoDB, React, Node.js, Express, HTML, & CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
 
 <p>See my <a href="https://samlopezdev.netlify.app/" target="_blank">website</a> for more information!</p>
 
