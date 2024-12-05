@@ -3,8 +3,8 @@
 
 
 <p align="center">
-  <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
-  <a href="https://www.linkedin.com/in/slopez321/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
+  <a href="https://samlopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
+  <a href="https://www.linkedin.com/in/samlopezdev/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
 
@@ -52,8 +52,8 @@
 
 <h2 align="center">Connect</h2>
 <p align="center">
-  <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
-  <a href="https://www.linkedin.com/in/slopez321/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
+  <a href="https://samlopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
+  <a href="https://www.linkedin.com/in/samlopezdev/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
 
