@@ -48,7 +48,7 @@
   </tbody>
 </table>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samanthalprogramming&show_icons=true&locale=en&layout=compact" alt="samanthalprogramming"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlopezdev&show_icons=true&locale=en&layout=compact" alt="samanthalprogramming"/></p>
 
 <h2 align="center">Connect</h2>
 <p align="center">
