@@ -22,7 +22,7 @@
         <h3 align="center"><a href="https://brookshutterphotography.netlify.app/" target="_blank">Brookshutter Photography</a></h3>
         <a href="https://brookshutterphotography.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/091026ba-e156-44ef-9e76-43e923dfc32d" /></a>
         <p align="center">
-          <a href='https://github.com/SamanthaLProgramming/Carolina-Cakes'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href='https://github.com/samlopezdev/brookshutter-photography'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
           <a href="https://brookshutterphotography.netlify.app/">
             <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
           </a>
