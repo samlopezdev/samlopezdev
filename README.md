@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Detail-oriented and high-spirited Software Engineer, proficient in JavaScript, MongoDB, ReactJS, NodeJS, Express, HTML, & CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
+<p align="center">Detail-oriented and high-spirited Software Engineer, proficient in JavaScript, ReactJS, MongoDB, NodeJS, Express, HTML, & CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
 
 <p>See my <a href="https://samlopezdev.netlify.app/" target="_blank">website</a> for more information!</p>
 
