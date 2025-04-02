@@ -58,6 +58,18 @@
         <p align="center">A tasteful and elegant homepage, showcasing exquisite handcrafted cakes made to order.</p>
         <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p>
       </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://samlopezdev.netlify.app/" target="_blank">Samantha L Portfolio</a></h3>
+        <a href="https://samlopezdev.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/12c258cd-9028-4650-afa4-2db0c86e9d8c" /></a>
+        <p align="center">
+          <a href='https://github.com/SamanthaLProgramming/Carolina-Cakes'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href="https://samlopezdev.netlify.app/">
+            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
+          </a>
+        </p>
+        <p align="center">My personal portfolio showcases some of my previous work for potential clients or employers who may be interested.</p>
+        <p><em><strong>HTML5, CSS3, & Javascript</strong></em></p>
+      </td>
     </tr>
   </tbody>
 </table>
