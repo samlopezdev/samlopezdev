@@ -60,7 +60,7 @@
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://samlopezdev.netlify.app/" target="_blank">Samantha L Portfolio</a></h3>
-        <a href="https://samlopezdev.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/12c258cd-9028-4650-afa4-2db0c86e9d8c" /></a>
+        <a href="https://samlopezdev.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/285bbf76-2dcc-4727-a8ee-b9f71b0a5bbd" /></a>
         <p align="center">
           <a href='https://github.com/SamanthaLProgramming/Carolina-Cakes'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
           <a href="https://samlopezdev.netlify.app/">
