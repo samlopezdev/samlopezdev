@@ -19,18 +19,6 @@
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://next-level-life.netlify.app/" target="_blank">Next Level Life</a></h3>
-        <a href="https://next-level-life.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/0df4cf3e-dca9-4ba3-9c8f-79437eaaec4b" /></a>
-        <p align="center">
-          <a href='https://github.com/samlopezdev/nxt-lvl-life'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
-          <a href="https://next-level-life.netlify.app/">
-            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
-          </a>
-        </p>
-        <p align="center">Discover a deeper sense of purpose and create a clear picture of the life you want with this ultimate digital vision board.</p>
-        <p><em><strong>React.js, Tailwind CSS, MongoDB,<br>Express.js, Node.js, Cloudinary</strong></em></p>
-      </td>
-      <td width="50%" valign="top">
         <h3 align="center"><a href="https://woodendreamsdemo.netlify.app/" target="_blank">Budget Buddy</a></h3>
         <a href="https://budgetbuddytracker.netlify.app/">
           <img width="100%" src="https://github.com/user-attachments/assets/54b10230-59c3-4034-ba76-53898e026ed6">
@@ -43,6 +31,18 @@
         </p>
         <p align="center">Software designed to monitor and organize your monthly expenses, providing a comprehensive overview of your spending.</p>
         <p><em><strong>React.js, TypeScript, Appwrite, GoogleAuth</strong></em></p> 
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://next-level-life.netlify.app/" target="_blank">Next Level Life</a></h3>
+        <a href="https://next-level-life.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/0df4cf3e-dca9-4ba3-9c8f-79437eaaec4b" /></a>
+        <p align="center">
+          <a href='https://github.com/samlopezdev/nxt-lvl-life'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href="https://next-level-life.netlify.app/">
+            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
+          </a>
+        </p>
+        <p align="center">Discover a deeper sense of purpose and create a clear picture of the life you want with this ultimate digital vision board.</p>
+        <p><em><strong>React.js, Tailwind CSS, MongoDB,<br>Express.js, Node.js, Cloudinary</strong></em></p>
       </td>
     </tr>
     <tr>
