@@ -9,7 +9,7 @@
 </p>
 
 
-<p align="center">Detail-oriented and high-spirited Software Engineer, proficient in JavaScript, ReactJS, MongoDB, NodeJS, Express, HTML, & CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
+<p align="center">Detail-oriented and high-spirited Software Engineer, proficient in JavaScript, React.js, Tailwind CSS, MongoDB, Node.js, Express.js, HTML, & CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
 
 <p>See my <a href="https://samlopezdev.netlify.app/" target="_blank">website</a> for more information!</p>
 
@@ -36,7 +36,7 @@
           <img width="100%" src="https://github.com/user-attachments/assets/54b10230-59c3-4034-ba76-53898e026ed6">
         </a>
         <p align="center">
-          <a href="https://github.com/SamanthaLProgramming/Wooden-Dreams"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href="https://github.com/samlopezdev/budget-buddy"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
           <a href="https://budgetbuddytracker.netlify.app/">
             <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
           </a>
