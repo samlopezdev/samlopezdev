@@ -19,7 +19,7 @@
   <tbody>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://woodendreamsdemo.netlify.app/" target="_blank">Budget Buddy</a></h3>
+        <h3 align="center"><a href="https://budgetbuddytracker.netlify.app/" target="_blank">Budget Buddy</a></h3>
         <a href="https://budgetbuddytracker.netlify.app/">
           <img width="100%" src="https://github.com/user-attachments/assets/54b10230-59c3-4034-ba76-53898e026ed6">
         </a>
