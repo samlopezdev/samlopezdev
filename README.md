@@ -33,20 +33,6 @@
         <p><em><strong>React, TypeScript, Appwrite, GoogleAuth</strong></em></p> 
       </td>
       <td width="50%" valign="top">
-        <h3 align="center"><a href="https://next-level-life.netlify.app/" target="_blank">Next Level Life</a></h3>
-        <a href="https://next-level-life.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/0df4cf3e-dca9-4ba3-9c8f-79437eaaec4b" /></a>
-        <p align="center">
-          <a href='https://github.com/samlopezdev/nxt-lvl-life'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
-          <a href="https://next-level-life.netlify.app/">
-            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
-          </a>
-        </p>
-        <p align="center">Discover a deeper sense of purpose and create a clear picture of the life you want with this ultimate digital vision board.</p>
-        <p><em><strong>React.js, Tailwind CSS, MongoDB,<br>Express.js, Node.js, Cloudinary</strong></em></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
         <h3 align="center"><a href="https://brookshutterphotography.netlify.app/" target="_blank">Brookshutter Photography</a></h3>
         <a href="https://brookshutterphotography.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/091026ba-e156-44ef-9e76-43e923dfc32d" /></a>
         <p align="center">
@@ -57,6 +43,20 @@
         </p>
         <p align="center">A multi-page portfolio that highlights a photographer's varied work, showcasing her distinctive style and technical expertise.</p>
         <p><em><strong>HTML5, CSS3, & JavaScript</strong></em></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><a href="https://next-level-life.netlify.app/" target="_blank">Next Level Life</a></h3>
+        <a href="https://next-level-life.netlify.app/"><img width="100%" src="https://github.com/user-attachments/assets/0df4cf3e-dca9-4ba3-9c8f-79437eaaec4b" /></a>
+        <p align="center">
+          <a href='https://github.com/samlopezdev/nxt-lvl-life'><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/fa88d715-470f-42d5-9410-1ac001c30b15" alt="Link to project repository." /></a>
+          <a href="https://next-level-life.netlify.app/">
+            <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
+          </a>
+        </p>
+        <p align="center">Discover a deeper sense of purpose and create a clear picture of the life you want with this ultimate digital vision board.</p>
+        <p><em><strong>React.js, Tailwind CSS, MongoDB,<br>Express.js, Node.js, Cloudinary</strong></em></p>
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://samlopezdev.netlify.app/" target="_blank">Samantha L Portfolio</a></h3>
@@ -102,7 +102,7 @@
   </tbody>
 </table>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlopezdev&show_icons=true&locale=en&layout=compact" alt="samanthalprogramming"/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samlopezdev&show_icons=true&locale=en&layout=compact" alt="samanthalprogramming"/></p> -->
 
 <h2 align="center">Connect With Me!</h2>
 <p align="center">
