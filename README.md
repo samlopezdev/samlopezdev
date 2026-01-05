@@ -29,8 +29,8 @@
             <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
           </a>
         </p>
-        <p align="center">Software designed to monitor and organize your monthly expenses, providing a comprehensive overview of your spending.</p>
-        <p><em><strong>React.js, TypeScript, Appwrite, GoogleAuth</strong></em></p> 
+        <p align="center">Software designed to monitor and organize monthly expenses, providing a comprehensive overview of your spending.</p>
+        <p><em><strong>React, TypeScript, Appwrite, GoogleAuth</strong></em></p> 
       </td>
       <td width="50%" valign="top">
         <h3 align="center"><a href="https://next-level-life.netlify.app/" target="_blank">Next Level Life</a></h3>
