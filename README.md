@@ -8,13 +8,18 @@
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
 
-
-<p align="center">Resourceful and high-spirited Software Engineer, proficient in TypeScript/JavaScript, React, Tailwind CSS, Node, Express, MongoDB, and HTML/CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
+<h2 align="left">👩‍💻 About Me</h2>
+<p align="left">Resourceful and high-spirited Software Engineer, proficient in TypeScript/JavaScript, React, Tailwind CSS, Node, Express, MongoDB, and HTML/CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
 
 <p>See my <a href="https://samlopezdev.netlify.app/" target="_blank">website</a> for more information!</p>
 
-
-<h2 align="center">Projects</h2>
+<h2 align="left">🚀 Currently Building</h2>
+<ul>
+  <li><b><a href="https://github.com/samlopezdev/digital-artist-portfolio">Aria Bloom (Web App🔜)</a></b> - A vibrant spring-themed portfolio demo designed for a digital artist. Includes essential information about commissions and provides clear contact details, all while displaying the artist's diverse body of work.
+  </li>
+  <li><b><a href="https://github.com/samlopezdev/nxt-lvl-life">Next Level Life</a></b> - UI updates coming soon.</li>
+</ul>
+<h2 align="left">📚 Past Public Projects</h2>
 <table align="center">
   <tbody>
     <tr>
@@ -29,7 +34,7 @@
             <img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/0d7c8352-e0dd-4b22-ae06-90514f6db844" alt="Link to project site." />
           </a>
         </p>
-        <p align="center">Software designed to monitor and organize monthly expenses, providing a comprehensive overview of your spending.</p>
+        <p align="center">Simple budgeting tool designed to monitor and organize monthly expenses. 100Devs Hackathon project.</p>
         <p><em><strong>React, TypeScript, Appwrite, GoogleAuth</strong></em></p> 
       </td>
       <td width="50%" valign="top">
