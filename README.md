@@ -9,15 +9,13 @@
 </p>
 
 <h2 align="left">👩‍💻 About Me</h2>
-<p align="left">Resourceful and high-spirited Software Engineer, proficient in TypeScript/JavaScript, React, Tailwind CSS, Node, Express, MongoDB, and HTML/CSS. Actively involved in building user-friendly websites for local businesses in the Idaho and Washington area.</p>
-
-<p>See my <a href="https://samlopezdev.netlify.app/" target="_blank">website</a> for more information!</p>
+<p align="left">I'm a creative and resourceful developer with experience in both frontend and backend technologies. I love building things that feel intuitive and meaningful for people to use and I'm always looking for ways to improve my skillset while trying to stay up to date with the latest tech trends! Outside of coding, I enjoy more laid-back activities like gaming or cooking. </p>
 
 <h2 align="left">🚀 Currently Building</h2>
 <ul>
   <li><b><a href="https://github.com/samlopezdev/digital-artist-portfolio">Aria Bloom (Web App🔜)</a></b> - A vibrant spring-themed portfolio demo designed for a digital artist. Includes essential information about commissions and provides clear contact details, all while displaying the artist's diverse body of work.
   </li>
-  <li><b><a href="https://github.com/samlopezdev/nxt-lvl-life">Next Level Life</a></b> - UI updates coming soon.</li>
+  <li><b><a href="https://github.com/samlopezdev/nxt-lvl-life">Next Level Life</a></b> - Expansive UI updates for all pages coming soon.</li>
 </ul>
 <h2 align="left">📚 Past Public Projects</h2>
 <table align="center">
