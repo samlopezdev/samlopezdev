@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://samlopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
-  <a href="https://www.linkedin.com/in/samlopezdev/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
+  <a href="https://www.linkedin.com/in/samlopezdev/""><img width="175" height="40" alt="Pfp_LinkedInPfp" src="https://github.com/user-attachments/assets/fcee17ea-7691-48ea-a9c7-4843e72be686" /></a>
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
 
 <h2 align="left">👩‍💻 About Me</h2>
-<p align="left">I'm a creative and resourceful developer with experience in both frontend and backend technologies. I love building things that feel intuitive and meaningful for people to use and I'm always looking for ways to improve my skillset while trying to stay up to date with the latest tech trends! Outside of coding, I enjoy more laid-back activities like gaming or cooking. </p>
+<p align="left">I'm a creative and resourceful developer with experience in both frontend and backend technologies. I love building web apps that feel intuitive and meaningful for people to use and I'm always looking for ways to improve my skillset! Outside of coding, I enjoy more laid-back activities like gaming or cooking.</p>
 
 <h2 align="left">🚀 Currently Building</h2>
 <ul>
@@ -110,7 +110,7 @@
 <h2 align="center">✨ Connect With Me!</h2>
 <p align="center">
   <a href="https://samlopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/d8319464-5593-4f7e-9956-91818bd0c6bb"/></a>
-  <a href="https://www.linkedin.com/in/samlopezdev/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/a0206a7d-5957-4c73-b8b5-09e7564b275a"/></a>
+  <a href="https://www.linkedin.com/in/samlopezdev/""><img width="175" height="40" alt="Pfp_LinkedInPfp" src="https://github.com/user-attachments/assets/fcee17ea-7691-48ea-a9c7-4843e72be686" /></a>
 <!--   <a href="https://samanthalopezdev.netlify.app/"><img src="https://github.com/SamanthaLProgramming/SamanthaLProgramming/assets/150631576/cac8e030-ad8d-45ad-8d1b-77359a0b49c1"/></a> -->
 </p>
 
