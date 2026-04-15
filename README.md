@@ -13,9 +13,9 @@
 
 <h2 align="left">🚀 Currently Building</h2>
 <ul>
-  <li><b><a href="https://github.com/samlopezdev/digital-artist-portfolio">Aria Bloom (Web App🔜)</a></b> - A vibrant spring-themed portfolio demo designed for a digital artist. Includes essential information about commissions and provides clear contact details, all while displaying the artist's diverse body of work.
+  <li><b><a href="https://github.com/samlopezdev/digital-artist-portfolio">Aria Bloom Portfolio (Front-end🔜)</a></b> - A vibrant spring-themed portfolio demo designed for a digital artist. Includes essential information about commissions and provides clear contact details, all while displaying the artist's diverse body of work.
   </li>
-  <li><b><a href="https://github.com/samlopezdev/nxt-lvl-life">Next Level Life</a></b> - Expansive UI updates for all pages coming soon.</li>
+  <li><b><a href="https://github.com/samlopezdev/nxt-lvl-life">Vision Board App (Full-stack)</a></b> - Expansive UI updates for all pages coming soon as well as incorporating further details about the app's functionality.</li>
 </ul>
 <h2 align="left">📚 Past Public Projects</h2>
 <table align="center">
